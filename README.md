@@ -1,2 +1,2 @@
-# react-basic-shopping-cart
+# react-task-app
 basic React shopping cart UI
